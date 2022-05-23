@@ -23,11 +23,11 @@ fun toWord( i:Int)= when (i) {
     else ->"-"
 }
 fun toWord2( i:Int)= when (i) {
-    1->"onnu"
-    2->"randu"
-    3->"moonu"
-    4->"nalu"
-    5->"anju"
+    1->"एक"
+    2->"दो"
+    3->"तीन"
+    4->"चार"
+    5->"पांच"
     else ->"-"
 }
 
